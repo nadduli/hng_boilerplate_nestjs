@@ -15,6 +15,7 @@ export const mockUser: User = {
   owned_organisations: [],
   created_organisations: [],
   jobs: [],
+  comments: [],
   hashPassword: () => null,
   password: 'password123',
   time_left: 5,
